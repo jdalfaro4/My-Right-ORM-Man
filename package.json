@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jdalfaro4/My-Right-ORM-Man/issues"
   },
-  "homepage": "https://github.com/jdalfaro4/My-Right-ORM-Man#readme"
+  "homepage": "https://github.com/jdalfaro4/My-Right-ORM-Man#readme",
+  "dependencies": {
+    "sequelize": "^6.30.0"
+  }
 }
