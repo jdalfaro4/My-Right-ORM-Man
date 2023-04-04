@@ -10,7 +10,7 @@
 
 ## Link  
 
-[Click here](https://less-waste-more-taste7.herokuapp.com/) to view "My-Right-ORM-Man" video.   
+[Click here](https://drive.google.com/file/d/1FwqroNl6k0kIALQqgvT6Fs2nXxeJ-ZC4/view) to view "My-Right-ORM-Man" video.   
 
 ## Description  
 
