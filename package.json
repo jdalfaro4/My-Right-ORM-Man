@@ -1,0 +1,20 @@
+{
+  "name": "my-right-orm-man",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdalfaro4/My-Right-ORM-Man.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdalfaro4/My-Right-ORM-Man/issues"
+  },
+  "homepage": "https://github.com/jdalfaro4/My-Right-ORM-Man#readme"
+}
